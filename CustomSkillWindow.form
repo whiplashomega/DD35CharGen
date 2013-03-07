@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.8" type="org.netbeans.modules.form.forminfo.JDialogFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="2"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="1" attributes="0">
+                      <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                      <Component id="OKButton" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="CancelButton" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" alignment="0" attributes="0">
+                              <Component id="Craft3" min="-2" pref="60" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="Knowledge3" min="-2" pref="60" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="Perform3" min="-2" pref="60" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="Profession3" min="-2" pref="60" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <Component id="Craft4" min="-2" pref="60" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="Knowledge4" min="-2" pref="60" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="Perform4" min="-2" pref="60" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="Profession4" min="-2" pref="60" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <Component id="Craft5" min="-2" pref="60" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="Knowledge5" min="-2" pref="60" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="Perform5" min="-2" pref="60" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="Profession5" min="-2" pref="60" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="Craft1" alignment="0" min="-2" pref="60" max="-2" attributes="0"/>
+                                  <Component id="CraftLabel" alignment="0" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="Knowledge1" alignment="0" min="-2" pref="60" max="-2" attributes="0"/>
+                                  <Component id="KnowledgeLabel" alignment="0" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="Perform1" alignment="0" min="-2" pref="60" max="-2" attributes="0"/>
+                                  <Component id="PerformLabel" alignment="0" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="ProfessionLabel" min="-2" max="-2" attributes="0"/>
+                                  <Component id="Profession1" min="-2" pref="60" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <Component id="Craft2" min="-2" pref="60" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="Knowledge2" min="-2" pref="60" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="Perform2" min="-2" pref="60" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="Profession2" min="-2" pref="60" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <Component id="Craft7" min="-2" pref="60" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="Knowledge8" min="-2" pref="60" max="-2" attributes="0"/>
+                                  <Component id="Knowledge7" alignment="0" min="-2" pref="60" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <Component id="Craft6" min="-2" pref="60" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="Knowledge6" min="-2" pref="60" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="Perform6" min="-2" pref="60" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="Profession6" min="-2" pref="60" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <EmptySpace min="0" pref="122" max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="1" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="CraftLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="KnowledgeLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="PerformLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="ProfessionLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="Craft1" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="Knowledge1" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="Perform1" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="Profession1" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="Craft2" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="Knowledge2" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="Perform2" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="Profession2" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="Craft3" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="Knowledge3" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="Perform3" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="Profession3" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="Craft4" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="Knowledge4" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="Perform4" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="Profession4" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="Craft5" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="Knowledge5" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="Perform5" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="Profession5" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="Craft6" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="Knowledge6" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="Perform6" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="Profession6" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="Craft7" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="Knowledge7" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="Knowledge8" min="-2" max="-2" attributes="0"/>
+              <EmptySpace pref="33" max="32767" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="CancelButton" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="OKButton" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JButton" name="CancelButton">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Cancel"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="CancelButtonActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="OKButton">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="OK"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="OKButtonActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="CraftLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Craft"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="Craft1">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Craft2">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Craft3">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Craft4">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Craft5">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Craft6">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Craft7">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Knowledge1">
+    </Component>
+    <Component class="javax.swing.JLabel" name="KnowledgeLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Knowledge"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="Knowledge2">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Knowledge3">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Knowledge4">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Knowledge5">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Knowledge6">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Knowledge7">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Knowledge8">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Perform1">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Perform2">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Perform3">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Perform4">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Perform5">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Perform6">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Profession1">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Profession2">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Profession3">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Profession4">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Profession5">
+    </Component>
+    <Component class="javax.swing.JTextField" name="Profession6">
+    </Component>
+    <Component class="javax.swing.JLabel" name="PerformLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Perform"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="ProfessionLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Profession"/>
+      </Properties>
+    </Component>
+  </SubComponents>
+</Form>
